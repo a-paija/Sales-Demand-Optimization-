@@ -26,6 +26,29 @@ Maven Roasters, a NYC-based coffee shop chain with three locations, faces challe
 5. Transactions by Product Category Column Chart: Category-level insights  
 6. Top 15 Products Pivot Table: Best-sellers with revenue and count  
 ```
+
+---
+
+## 🖼 Dashboard Preview
+
+<details>
+<summary><strong>Raw Data Preview</strong></summary>
+
+![RawData](https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Data.png)
+
+---
+
+</details>
+
+<details>
+<summary><strong>Dashboard Screenshots</strong></summary>
+
+<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%201.png" height="600" width="600" />
+<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%202.png" height="600" width="600" />
+<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%203.png" height="600" width="600" />
+<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%204.png" height="600" width="600" />
+
+</details>
 ---
 
 ## 🔍 Key Insights
@@ -76,27 +99,6 @@ Lower Manhattan:
 - **Dashboarding:** Built an interactive Excel dashboard with slicers, charts, and pivot tables.  
 - **Business Insights:** Identified peak traffic, low-performing products, and opportunities for revenue growth.  
 - **Recommendations:** Developed actionable strategies for staffing, promotions, and product mix optimization.  
-
----
-
-## 🖼 Dashboard Preview
-
-<details>
-<summary><strong>Raw Data Preview</strong></summary>
-
-![RawData](https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Data.png)
-
-</details>
-
-<details>
-<summary><strong>Dashboard Screenshots</strong></summary>
-
-<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%201.png" height="400" width="400" />
-<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%202.png" height="400" width="400" />
-<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%203.png" height="400" width="400" />
-<img src="https://github.com/a-paija/Coffee-Shop-Sales/blob/main/Preview/Coffee%204.png" height="400" width="400" />
-
-</details>
 
 ---
 

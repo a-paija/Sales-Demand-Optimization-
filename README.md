@@ -1,18 +1,20 @@
 # ☕ Maven Roasters Sales Dashboard & Analysis
 
-## 📊 Project Overview
-**Client:** Maven Roasters – NYC-based coffee shop with three locations  
-**Goal:** Optimize sales and staffing by understanding customer traffic, product performance, and peak transaction times.  
-**Business Objective:** Increase overall sales by 15% over the next quarter while improving resource allocation and product mix profitability.
+## 📊 Problem Statement
+Maven Roasters, a NYC-based coffee shop chain with three locations, faces challenges in efficiently allocating staff and maximizing revenue due to fluctuating customer traffic patterns and uneven product performance across locations and time periods. Peak transaction times are concentrated in the morning, while afternoons and weekends experience lower sales. Additionally, some product categories contribute disproportionately to revenue, suggesting opportunities to optimize the product mix.
+
+**Business Objective:** Improve operational efficiency and revenue generation by increasing total sales by 15% over the next quarter, optimizing staffing schedules to match peak demand, and enhancing product mix profitability through targeted promotions and cross-selling opportunities.
+
 
 ---
 
 ## 🎯 Business Questions Addressed
-1. **Sales Trends Over Time** – Monthly revenue evolution  
-2. **Busiest Days of the Week** – Peak traffic days by location  
-3. **Popular Times of Day** – Hourly transaction trends  
-4. **Product Performance** – Top-selling and revenue-driving products  
-
+```
+1. How have Maven Roasters’ sales evolved month-to-month across all locations?
+2. Which days of the week experience the highest customer traffic, and does this vary by location?
+3. What hours of the day are the busiest, and are peak transaction times consistent across locations?
+4. Which products are sold most frequently, and which generate the highest revenue?
+```
 ---
 
 ## 📊 Dashboard Features

@@ -49,6 +49,9 @@ Data preparation was performed in Excel to ensure accuracy and enable efficient 
 
 ## 🟩 Executive Summary
 
+<img src="Preview/Coffee 1.png" alt="Coffee" width="750" height="700"/>
+
+
 Maven Roasters demonstrates **strong but uneven sales performance**, driven primarily by **time-based demand concentration and a narrow set of high-performing product categories**.
 
 Customer traffic is heavily concentrated during **morning hours (8–11am)**, with a sharp decline in the afternoon and consistently weaker performance on weekends. This creates **operational inefficiencies**, particularly in staffing allocation and revenue utilization during off-peak periods.

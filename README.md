@@ -1,4 +1,4 @@
-## ☕ Maven Roasters Sales Dashboard Project Background
+## 🟦 Project Background
 
 Maven Roasters is a New York City-based coffee shop chain operating across three locations. While the business generates steady transaction volume, it lacks structured visibility into **when, where, and how revenue is being generated**, limiting its ability to optimize staffing, product mix, and overall operational efficiency.
 

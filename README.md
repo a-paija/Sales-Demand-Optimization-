@@ -4,7 +4,7 @@ Maven Roasters is a New York City-based coffee shop chain operating across three
 
 The dataset used in this project consists of transaction-level sales data across all locations, capturing key attributes such as purchase timestamps, product categories, item-level sales, and store performance.
 
-Without structured analysis, Maven Roasters is unable to answer critical business questions such as:
+This project addresses critical business questions such as:
 - When customer demand peaks and declines throughout the day  
 - How traffic patterns vary by day of week and location  
 - Which products drive the majority of revenue vs. low-performing items  

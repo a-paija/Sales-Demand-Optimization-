@@ -54,7 +54,7 @@ Below is a screenshot of the dashboard made in Excel featuring supporting models
 <img src="Preview/Coffee 1.png" alt="Coffee" width="750" height="700"/>
 
 <details>
-<summary>🟩 Click to View Location Specific Dashboards</summary>
+<summary> 🟩 Click to View Location Specific Dashboards</summary>
 <img src="Preview/Coffee 2.png" alt="Coffee" width="750" height="700"/>
   
 <img src="Preview/Coffee 3.png" alt="Coffee" width="750" height="700"/>

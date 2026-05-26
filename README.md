@@ -24,7 +24,6 @@ Together, they support both **day-to-day operational decisions and revenue optim
 > **Note:** Detailed recommendations and execution strategies are consolidated in the final section of this report.
 
 
-
 ## 🟦 Business Objective and Data Structure
 
 The primary objective of this analysis is to evaluate sales performance across locations, time periods, and product categories to identify opportunities for improving revenue generation and operational efficiency.

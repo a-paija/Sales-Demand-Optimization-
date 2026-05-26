@@ -129,16 +129,12 @@ The primary constraint is **ineffective demand capture outside peak hours**, not
 - Reduce staffing during low-demand periods  
 - Adjust store hours based on traffic patterns  
 
-
-
 ### **2. Increase Revenue During Off-Peak Hours**
 **Impact:** High  
 
 - Introduce **afternoon promotions and bundles**  
 - Launch **weekend-specific offers**  
 - Implement **mobile ordering / quick pickup**  
-
-
 
 ### **3. Optimize Product Mix & Cross-Selling**
 **Impact:** High  
@@ -147,15 +143,11 @@ The primary constraint is **ineffective demand capture outside peak hours**, not
 - Focus on **high-margin, high-demand products**  
 - Reduce emphasis on low-performing categories  
 
-
-
 ### **4. Implement Location-Specific Strategies**
 **Impact:** Medium  
 
 - Tailor operations and promotions by location  
-- Introduce localized campaigns (e.g., brunch, commuter deals)  
-
-
+- Introduce localized campaigns (e.g., brunch, commuter deals)
 
 ### **5. Improve Revenue Consistency**
 **Impact:** Medium  
@@ -163,23 +155,3 @@ The primary constraint is **ineffective demand capture outside peak hours**, not
 - Smooth demand through targeted incentives  
 - Encourage off-peak purchases  
 - Use historical patterns for forecasting  
-
-
-
-## 🟩 Dashboard Overview
-
-The Excel dashboard enables interactive exploration of:
-
-- Time-based sales trends (monthly, daily, hourly)  
-- Location-level performance  
-- Product category insights  
-- Transaction volume distribution  
-
-
-
-## 🟩 Portfolio Highlights
-
-- **Data Analysis:** Cleaned and structured transaction-level data in Excel  
-- **Dashboarding:** Built an interactive dashboard using pivot tables and slicers  
-- **Insights:** Identified demand concentration and revenue inefficiencies  
-- **Strategy:** Developed actionable recommendations to improve revenue and operations  

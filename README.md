@@ -49,6 +49,8 @@ Data preparation was performed in Excel to ensure accuracy and enable efficient 
 
 ## 🟩 Executive Summary
 
+Below is a screenshot of the dashboard made in Excel featuring supporting models for analysis.
+
 <img src="Preview/Coffee 1.png" alt="Coffee" width="750" height="700"/>
 
 

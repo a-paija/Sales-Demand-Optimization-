@@ -24,11 +24,11 @@ Together, they support both **day-to-day operational decisions and revenue optim
 > **Note:** Detailed recommendations and execution strategies are consolidated in the final section of this report.
 
 
-## 🟦 Business Objective and Data Structure
+## 🟦 Business Objective, Data Structure & Preparation
 
 The primary objective of this analysis is to evaluate sales performance across locations, time periods, and product categories to identify opportunities for improving revenue generation and operational efficiency.
 
-Specifically, this project seeks to:
+This project seeks to:
 
 1. Analyze sales trends and revenue patterns over time  
 2. Identify peak and low-demand periods across days and hours  
@@ -36,29 +36,16 @@ Specifically, this project seeks to:
 4. Assess location-level differences in traffic and sales behavior  
 5. Identify opportunities to optimize staffing, pricing, and product mix  
 
-
-
-## 🟦 Data Structure & Initial Checks
-
 The dataset consists of transaction-level records across three store locations, where each row represents an individual purchase. Key fields include transaction timestamp, product category, item sold, and revenue generated.
 
-Initial data validation and quality checks were conducted in Excel to ensure consistency and usability for analysis. This included reviewing timestamp formats, validating category groupings, and identifying any anomalies in transaction volume or pricing.
-
-
-
-## 🟦 Data Cleaning (Excel)
+Initial data validation and quality checks were conducted in Excel to ensure consistency and usability for analysis. This included reviewing timestamp formats, validating category groupings, and identifying anomalies in transaction volume or pricing.
 
 Data preparation was performed in Excel to ensure accuracy and enable efficient analysis.
 
-Key steps included:
 - Standardizing time formats to enable hourly trend analysis  
 - Cleaning and grouping product categories for consistency  
 - Validating transaction counts and revenue fields  
-- Structuring data for pivot table and dashboard integration  
-
-These steps ensured the dataset could support both **high-level visualization and granular analysis** without distortion.
-
-
+- Structuring data for pivot table and dashboard integration
 
 ## 🟩 Executive Summary
 

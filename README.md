@@ -2,8 +2,6 @@
 
 Maven Roasters is a New York City-based coffee shop chain operating across three locations. While the business generates steady transaction volume, it lacks structured visibility into **when, where, and how revenue is being generated**, limiting its ability to optimize staffing, product mix, and overall operational efficiency.
 
-The dataset used in this project consists of transaction-level sales data across all locations, capturing key attributes such as purchase timestamps, product categories, item-level sales, and store performance.
-
 This project addresses critical business questions such as:
 - When customer demand peaks and declines throughout the day  
 - How traffic patterns vary by day of week and location  
@@ -13,13 +11,6 @@ This project addresses critical business questions such as:
 #### **Overall Goal: Improve revenue consistency, optimize labor allocation, and increase sales productivity through data-driven operational decisions.**
 
 This project addresses these gaps by transforming raw transactional data into actionable insights using **Excel-based dashboarding and analysis**.
-
-The dashboards provide a high-level view of performance trends, while deeper breakdowns enable diagnostic insights:
-
-- Dashboards highlight **where performance varies**  
-- Analysis explains **why those patterns occur**  
-
-Together, they support both **day-to-day operational decisions and revenue optimization strategy**.
 
 > **Note:** Detailed recommendations and execution strategies are consolidated in the final section of this report.
 

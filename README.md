@@ -1,4 +1,4 @@
-## 🟦 Project Background
+## Project Background
 
 Maven Roasters is a New York City-based coffee shop chain operating across three locations. While the business generates steady transaction volume, it lacks structured visibility into **when, where, and how revenue is being generated**, limiting its ability to optimize staffing, product mix, and overall operational efficiency.
 
@@ -15,7 +15,7 @@ This project addresses these gaps by transforming raw transactional data into ac
 > **Note:** Detailed recommendations and execution strategies are consolidated in the final section of this report.
 
 
-## 🟦 Business Objective, Data Structure & Preparation
+## Business Objective, Data Structure & Preparation
 
 The primary objective of this analysis is to evaluate sales performance across locations, time periods, and product categories to identify opportunities for improving revenue generation and operational efficiency.
 
@@ -38,7 +38,7 @@ Data preparation was performed in Excel to ensure accuracy and enable efficient 
 - Validating transaction counts and revenue fields  
 - Structuring data for pivot table and dashboard integration
 
-## 🟩 Executive Summary
+## Executive Summary
 
 Below is a screenshot of the dashboard made in Excel featuring supporting models for analysis made using Pivot Tables and Excel fucntions.
 
@@ -58,7 +58,7 @@ Addressing these gaps presents a clear opportunity to improve both **short-term 
 
 
 
-## 🟨 Sales Trends & Customer Demand Patterns
+## Sales Trends & Customer Demand Patterns
 
 Sales activity shows a **highly concentrated demand pattern**, with the majority of transactions occurring during **morning commuter hours (8–11am)**.
 
@@ -74,7 +74,7 @@ Demand is **predictable but uneven**, with clear peak periods that are well-serv
 
 
 
-## 🟨 Product Performance & Revenue Mix
+## Product Performance & Revenue Mix
 
 Product performance is **highly concentrated**, with core beverage categories driving the majority of transactions and revenue.
 
@@ -88,7 +88,7 @@ Revenue is driven by a **narrow set of high-performing products**, while underpe
 
 
 
-## 🟨 Location Performance Insights
+## Location Performance Insights
 
 <details>
 <summary> 🟩 Click to View Location Specific Dashboards</summary>
@@ -110,7 +110,7 @@ A standardized operating model is suboptimal—performance varies enough to just
 
 
 
-## 🟧 Operational Gaps & Revenue Opportunities
+## Operational Gaps & Revenue Opportunities
 
 Despite steady transaction volume, the business underperforms in key areas:
 
@@ -124,7 +124,7 @@ The primary constraint is **ineffective demand capture outside peak hours**, not
 
 
 
-## 🟩 Strategic Recommendations & Actions
+## Strategic Recommendations & Actions
 
 ### **1. Align Staffing with Demand Patterns**
 **Impact:** High  
